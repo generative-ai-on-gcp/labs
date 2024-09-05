@@ -1,0 +1,21 @@
+,f1-score_base,f1-score_tune
+Surgery,0.3111111111111111,0.10810810810810811
+Consult - History and Phy.,0.0,0.47058823529411764
+Hematology - Oncology,0.0,0.25
+Obstetrics / Gynecology,0.0,0.4
+Cardiovascular / Pulmonary,0.0,0.15384615384615385
+Ophthalmology,0.0,0.5
+Urology,0.2857142857142857,0.6666666666666666
+Neurology,0.0,0.375
+Gastroenterology,0.4,0.8
+Orthopedic,0.5,0.5555555555555556
+Nephrology,0.0,0.5
+SOAP / Chart / Progress Notes,0.0,0.5714285714285714
+General Medicine,0.0,0.4
+Neurosurgery,0.0,0.2222222222222222
+Radiology,0.4,0.0
+ENT - Otolaryngology,1.0,0.0
+Discharge Summary,0.0,1.0
+micro avg,0.19548872180451127,
+macro avg,0.17040149393090573,0.41020091253655266
+weighted avg,0.19517460317460317,0.3514289999437058
